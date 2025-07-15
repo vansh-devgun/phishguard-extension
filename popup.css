@@ -1,0 +1,25 @@
+body {
+  width: 250px;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.popup {
+  padding: 15px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 18px;
+  margin: 0 0 10px;
+}
+
+button {
+  background: #28a745;
+  color: white;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
