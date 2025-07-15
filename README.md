@@ -19,7 +19,7 @@ No backend, no tracking, just client-side security 🔒
 
 ## 🖼️ Screenshot
 
-![PhishGuard Alert Popup](./screenshots/popup-example.png)  
+<img width="1901" height="1025" alt="Screenshot 2025-07-15 144458" src="https://github.com/user-attachments/assets/26c9aae1-d9b1-4d2c-ab14-c930e02eb70e" /> 
 *A phishing alert triggered by VirusTotal detection*
 
 ---
@@ -101,8 +101,8 @@ const vtApiKey = 'YOUR_API_KEY_HERE';
 
 **Vansh Devgun**  
 Cybersecurity Enthusiast | Chrome Extension Dev  
-[LinkedIn](https://www.linkedin.com/) (add your link!)  
-[GitHub](https://github.com/) (your username)
+[LinkedIn](https://www.linkedin.com/in/devgunvansh/)
+[GitHub](https://github.com/vansh-devgun)
 
 ---
 
