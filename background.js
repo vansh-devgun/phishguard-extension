@@ -1,4 +1,4 @@
-const vtApiKey = 'a87874f732faad72264517a05961216a6580be77433f48d38388fa3cf94fae50';
+const vtApiKey = 'YOUR_VT_API_KEY_HERE'; // Replace with your actual key when running locally
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message.type === 'check-url') {
